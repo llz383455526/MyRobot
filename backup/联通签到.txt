@@ -1,0 +1,12 @@
+POST https://act.10010.com/SigninApp/signin/daySign.do HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: https://act.10010.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 5 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36; unicom{version:android@5.91,desmobile:13143683782};devicetype{deviceBrand:Xiaomi,deviceModel:Redmi Note 5}
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://act.10010.com/SigninApp/signin/querySigninActivity.htm?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1MzQ3NjEzODksInRva2VuIjp7ImxvZ2luVXNlciI6IjEzMTQzNjgzNzgyIiwicmFuZG9tU3RyIjoieWhBeWpkVU0xNTM0MTU2NTg5OTcwIn0sImlhdCI6MTUzNDE1NjU4OX0.KXocIYje7VwxL-wIg5MvrxPrNAqhaMxecP0b5qB16CnNwBR_kC8M9cn55o6OpxjXwKBXRZgqAlo9Qg2jdqifHA&signFlag=eyJkYXRhIjoiMTMyYzJlNGFmOTFiOWU0ZTRmMmMyMDQwOWVkNWU5NDJhY2Y5YzllNWYyOWJmZTY0YTdkMjUxYjdiMmZhZjU3MTJmYjc5ZDc1OWNhYjcxZDg3ZjlkNmE2MzJmMGUzMzFiZmQzNzgzMDFjMWM3MjY4MzNlZGIwOGU1MDhjNDE4YWFkYzIwNmU1MGFjNDU0MDkyM2JkZWE3ZjgyNDhiZmUyYyIsInZlcnNpb24iOiIwMCJ9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,en-US;q=0.9
+Cookie: Hm_lvt_9208c8c641bfb0560ce7884c36938d9d=1524361807,1525058683; gipgeo=51|510; mallcity=51|540; WT_FPC=id=26a45966a5ac5f3f62e1524361806782:lv=1533951304046:ss=1533951130290; city=051|510; MUT_S=android8.1.0; ecs_acc=jYYdUlQyNFhm4P/cuEMTxCcoDxYkzRZ1NoCC+ZraA0EPH9+HpQrRXfyjxdNuahZSYCYf8L406MzhSC9vQnozbY+wvtmhIxDfYNvRCL1isZVW+awXdIOMQ8VZuPt+10fAEZxdlIMmwG8p8bXfrJ4R9MSg2XU2X5SndzT4HQC4gs0=; cw_mutual=6ff66a046d4cb9a67af6f2af5f74c32173f46e7b33cddd06e905f7f51fd509dd5e1a37c9b85e424035c3e1c6a1fc3296d77effcc106781c02ef2459e5bbe9ceb; ecs_token=eyJkYXRhIjoiMTMyYzJlNGFmOTFiOWU0ZTRmMmMyMDQwOWVkNWU5NDJhY2Y5YzllNWYyOWJmZTY0YTdkMjUxYjdiMmZhZjU3MTJmYjc5ZDc1OWNhYjcxZDg3ZjlkNmE2MzJmMGUzMzFiZmQzNzgzMDFjMWM3MjY4MzNlZGIwOGU1MDhjNDE4YWFkYzIwNmU1MGFjNDU0MDkyM2JkZWE3ZjgyNDhiZmUyYyIsInZlcnNpb24iOiIwMCJ9; clientid=98|0; route5=bc9509525bb42443e6affdc5edea082b; JSESSIONID=xGGpbxfTvysK7sD32ZffZt5cvz2ZGTqCpKY1HwhJyKTyYy6n3Gdq!1137641668
+
+className=signinIndex
